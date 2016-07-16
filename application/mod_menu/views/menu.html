@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Insert title here</title>
+	<link href="/libraries/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/libraries/bootstrap/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+	<link href="/config/marketingbi.css" rel="stylesheet">
+	<script src="../scripts/menu.js"></script>
+	<script src="/libraries/jjlc.js"></script>
+	<script src="/libraries/bootstrap/assets/js/ie-emulation-modes-warning.js"></script>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+</head>
+
+<body onload="abre();">
+	<div class="container">
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<img src="/images/logo.png" class="img-rounded" alt="logo" width="56" height="50">
+		            <a class="navbar-brand" href="#" style="cursor: pointer;">mktBI</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Settings<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#" onclick="carrega('../../mod_business_center/models/listagem.php','jumbotron');">Business Areas</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">BI<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#" onclick="carrega('../../mod_bi/models/mapBA.php','jumbotron');">Business Areas</a></li>
+							</ul>
+						</li>		            
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div id="jumbotron" class="jumbotron" style="height: 600px;">
+		</div>
+		<div class="well" id="footnote">
+		</div>
+	</div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/libraries/bootstrap/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="/libraries/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/libraries/bootstrap/assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

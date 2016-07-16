@@ -5,7 +5,7 @@
 	if (!defined("COMPANY_NIF")) define("COMPANY_NIF","167143298");
 
 	// database configurations
-	if (!defined("BBDD")) define("BBDD","jjlcBI");
+	if (!defined("BBDD")) define("BBDD","mkt_bi");
 	if (!defined("BDSERVER")) define("BDSERVER","localhost");
 	if (!defined("BDTYPE")) define("BDTYPE","mysql");
 
