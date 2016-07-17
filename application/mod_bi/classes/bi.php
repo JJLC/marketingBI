@@ -65,7 +65,7 @@ class BI
 			break;
 		}
 		
-		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where confiden_email=2 and area_negocios_$type=$id $genderFilter");
+		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where id_status<3 and confiden_email=2 and area_negocios_$type=$id $genderFilter");
 		$query->execute();
 		$row = $query->fetch();
 		return $row[0];
@@ -90,7 +90,7 @@ class BI
 			break;
 		}
 	
-		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where confiden_sms=2 and area_negocios_$type=$id $genderFilter");
+		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where id_status<3 and confiden_sms=2 and area_negocios_$type=$id $genderFilter");
 		$query->execute();
 		$row = $query->fetch();
 		return $row[0];
@@ -115,7 +115,7 @@ class BI
 			break;
 		}
 	
-		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where confiden_mms=2 and area_negocios_$type=$id $genderFilter");
+		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where id_status<3 and confiden_mms=2 and area_negocios_$type=$id $genderFilter");
 		$query->execute();
 		$row = $query->fetch();
 		return $row[0];
@@ -140,7 +140,7 @@ class BI
 			break;
 		}
 	
-		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where confiden_offline=2 and area_negocios_$type=$id $genderFilter");
+		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where id_status<3 and confiden_offline=2 and area_negocios_$type=$id $genderFilter");
 		$query->execute();
 		$row = $query->fetch();
 		return $row[0];
@@ -161,24 +161,42 @@ class BI
 		{
 			$resultado .= "<tr>";
 			$resultado .= "<td>".$row["name"]."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"A",1)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"F",1)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"M",1)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"A",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"F",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getBACustomers($row["id"],"M",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersEmail($row["id"],"A",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersEmail($row["id"],"F",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersEmail($row["id"],"M",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersSMS($row["id"],"A",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersSMS($row["id"],"F",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersSMS($row["id"],"M",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersMMS($row["id"],"A",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersMMS($row["id"],"F",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersMMS($row["id"],"M",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersOffline($row["id"],"A",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersOffline($row["id"],"F",2)."</td>";
-			$resultado .= "<td style='border-left: solid 1px black;'>".$this->getCustomersOffline($row["id"],"M",2)."</td>";			
+			$resultado .= "<td style='border-left: solid 1px black;''><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=1&gender=A&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"A",1)."</a></td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=1&gender=F&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"F",1)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=1&gender=M&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"M",1)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=A&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"A",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=F&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"F",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=M&confid=0\",\"jumbotron\");'>";
+			$resultado .= $this->getBACustomers($row["id"],"M",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=A&confid=1\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersEmail($row["id"],"A",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=F&confid=1\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersEmail($row["id"],"F",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=M&confid=1\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersEmail($row["id"],"M",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=A&confid=2\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersSMS($row["id"],"A",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=F&confid=2\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersSMS($row["id"],"F",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=M&confid=2\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersSMS($row["id"],"M",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=A&confid=3\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersMMS($row["id"],"A",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=F&confid=3\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersMMS($row["id"],"F",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=M&confid=3\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersMMS($row["id"],"M",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=A&confid=4\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersOffline($row["id"],"A",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=F&confid=4\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersOffline($row["id"],"F",2)."</td>";
+			$resultado .= "<td style='border-left: solid 1px black;'><a href='#' onclick='carrega(\"../../mod_bi/models/customersBA.php?id_ba=".$row["id"]."&ba_type=2&gender=M&confid=4\",\"jumbotron\");'>";
+			$resultado .= $this->getCustomersOffline($row["id"],"M",2)."</td>";			
 			$resultado .= "</tr>";
 		}
 		$resultado .= "</tbody>";
@@ -204,7 +222,7 @@ class BI
 						break;
 		}
 		
-		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where area_negocios_$type=$id $genderFilter");
+		$query = $this->conn->prepare("select count(num_cliente) from tb_customers where id_status<3 and area_negocios_$type=$id $genderFilter");
 		$query->execute();
 		$row = $query->fetch();
 		return $row[0];
