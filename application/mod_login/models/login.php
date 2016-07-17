@@ -1,8 +1,11 @@
 <?php
 
+	/**
+	 * performs the login
+	 */
 	session_start();
 	
-	require_once '../classes/login.inc';
+	require_once '../classes/login.php';
 	
 	$objLogin = new Login($_POST["username"],$_POST["password"]);
 	

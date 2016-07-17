@@ -2,7 +2,7 @@
 
 	session_start();
 
-	require_once '../classes/bi.inc';
+	require_once '../classes/bi.php';
 	
 	$objBI = new BI($_SESSION["username"], $_SESSION["password"]);
 	

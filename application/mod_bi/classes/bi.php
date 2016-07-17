@@ -9,6 +9,13 @@ class BI
 {
 	public $conn;
 	
+	/**
+	 * 
+	 * @param char $id (id of gender)
+	 * @return string
+	 * 
+	 * returns the gender of a customer
+	 */
 	private function getGender($id)
 	{
 		$query = $this->conn->prepare("select id from tb_genders where sigla='$id'");
@@ -17,6 +24,13 @@ class BI
 		return $row[0];
 	}
 	
+	/**
+	 * 
+	 * @param string $bduser (username)
+	 * @param string $bdpass (password)
+	 * 
+	 * connects to the database. will fail if the user don't have permissions on the database engine
+	 */
 	public function __construct($bduser, $bdpass)
 	{
 		require_once '../../../config/config.php';
@@ -32,6 +46,15 @@ class BI
 		}
 	}
 	
+	/**
+	 * 
+	 * @param integer $id
+	 * @param char $gender
+	 * @param integer $type
+	 * @return integer
+	 * 
+	 * gets the amount of customers that allow email marketing campaigns
+	 */
 	public function getCustomersEmail($id,$gender,$type)
 	{
 		switch ($gender)
@@ -48,6 +71,15 @@ class BI
 		return $row[0];
 	}
 
+	/**
+	 *
+	 * @param integer $id
+	 * @param char $gender
+	 * @param integer $type
+	 * @return integer
+	 *
+	 * gets the amount of customers that allow sms marketing campaigns
+	 */
 	public function getCustomersSMS($id,$gender,$type)
 	{
 		switch ($gender)
@@ -64,6 +96,15 @@ class BI
 		return $row[0];
 	}
 	
+	/**
+	 *
+	 * @param integer $id
+	 * @param char $gender
+	 * @param integer $type
+	 * @return integer
+	 *
+	 * gets the amount of customers that allow mms marketing campaigns
+	 */
 	public function getCustomersMMS($id,$gender,$type)
 	{
 		switch ($gender)
@@ -80,6 +121,15 @@ class BI
 		return $row[0];
 	}
 
+	/**
+	 *
+	 * @param integer $id
+	 * @param char $gender
+	 * @param integer $type
+	 * @return integer
+	 *
+	 * gets the amount of customers that allow offline marketing campaigns
+	 */
 	public function getCustomersOffline($id,$gender,$type)
 	{
 		switch ($gender)
@@ -96,6 +146,12 @@ class BI
 		return $row[0];
 	}
 	
+	/**
+	 * 
+	 * @return string
+	 * 
+	 * returns a string with the table body listing all the business areas
+	 */
 	public function getBAData()
 	{
 		$query = $this->conn->prepare("select id, name from tb_business_areas order by name");
@@ -129,6 +185,15 @@ class BI
 		return $resultado;
 	}
 	
+	/**
+	 * 
+	 * @param integer $id
+	 * @param char $gender
+	 * @param integer $type
+	 * @return integer
+	 * 
+	 * gets the amount of customers of a specifi gender (A-All, F-Female, M-Male)
+	 */
 	public function getBACustomers($id,$gender,$type)
 	{
 		switch ($gender)
