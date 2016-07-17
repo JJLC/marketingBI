@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared
+END
+PasswordHasher.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PasswordHasher.php
+END
+OLE.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/OLE.php
+END
+XMLWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/XMLWriter.php
+END
+CodePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/CodePage.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/File.php
+END
+Drawing.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/Drawing.php
+END
+OLERead.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/OLERead.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/Date.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/Excel5.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/Font.php
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/Escher.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/String.php
+END
+ZipStreamWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/ZipStreamWrapper.php
+END

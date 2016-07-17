@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/RichText
+END
+ITextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/RichText/ITextElement.php
+END
+Run.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/RichText/Run.php
+END
+TextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/RichText/TextElement.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA
+END
+QRDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/QRDecomposition.php
+END
+CholeskyDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT
+END
+SingularValueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php
+END
+LUDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/LUDecomposition.php
+END
+Matrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/Matrix.php
+END
+EigenvalueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php
+END

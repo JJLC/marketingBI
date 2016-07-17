@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/README.TXT
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/pdf417.php
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/LICENSE.TXT
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/htmlcolors.php
+END
+tcpdf.p12
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/tcpdf.p12
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/unicode_data.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/CHANGELOG.TXT
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/qrcode.php
+END
+tcpdf.crt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/tcpdf.crt
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/tcpdf.php
+END
+tcpdf.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/tcpdf.fdf
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/barcodes.php
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/PDF/2dbarcodes.php
+END

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101730000000" />
+<file name="CachedObjectStorageFactory.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101730000000" />
+<file name="Calculation.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="Cell.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="Comment.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="DocumentProperties.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="DocumentSecurity.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="HashTable.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="IComparable.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="IOFactory.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101750000000" />
+<file name="NamedRange.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101780000000" />
+<file name="ReferenceHelper.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101800000000" />
+<file name="RichText.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101810000000" />
+<file name="Settings.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476101810000000" />
+<file name="Style.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476102170000000" />
+<file name="Worksheet.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476102180000000" />
+<file name="WorksheetIterator.php" server="195.23.184.221/Douglas/" local="129364410080000000" remote="129476102180000000" />
+</dwsync>

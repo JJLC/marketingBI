@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend
+END
+logarithmicBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php
+END
+trendClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/trendClass.php
+END
+bestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/bestFitClass.php
+END
+polynomialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/polynomialBestFitClass.php
+END
+exponentialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/exponentialBestFitClass.php
+END
+linearBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/linearBestFitClass.php
+END
+powerBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Shared/trend/powerBestFitClass.php
+END

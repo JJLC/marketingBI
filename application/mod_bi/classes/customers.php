@@ -64,6 +64,10 @@ class Customers
 			$resultado .= "<td>".$row["nome"]." ".$row["apelido"]."</td>";
 			$resultado .= "<td>".$row["localidade"]."</td>";
 			$resultado .= "<td>".$this->getCustomerBA($row["area_negocios_2"])."</td>";
+			$resultado .= "<td>&nbsp;</td>";
+			$resultado .= "<td>";
+			$resultado .= "<img src='/images/icons/data_view.png' />";
+			$resultado .= "</td>";
 			$resultado .= "</tr>";
 		}
 		$resultado .= "</tbody>";

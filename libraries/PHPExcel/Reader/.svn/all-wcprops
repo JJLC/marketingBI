@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/Gnumeric.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/CSV.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/IReadFilter.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/Excel2007.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/IReader.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/Excel5.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/Excel2003XML.php
+END
+Serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/Serialized.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/OOCalc.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/4/dirmgp/classes/PHPExcel/Reader/SYLK.php
+END
