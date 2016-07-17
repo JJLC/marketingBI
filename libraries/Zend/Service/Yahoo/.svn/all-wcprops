@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo
+END
+PageDataResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/PageDataResult.php
+END
+ImageResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/ImageResult.php
+END
+VideoResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/VideoResult.php
+END
+LocalResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/LocalResultSet.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/Image.php
+END
+InlinkDataResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/InlinkDataResultSet.php
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/Result.php
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/ResultSet.php
+END
+InlinkDataResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/InlinkDataResult.php
+END
+LocalResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/LocalResult.php
+END
+ImageResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/ImageResultSet.php
+END
+VideoResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/VideoResultSet.php
+END
+PageDataResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/PageDataResultSet.php
+END
+NewsResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/NewsResult.php
+END
+WebResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/WebResult.php
+END
+WebResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/WebResultSet.php
+END
+NewsResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Yahoo/NewsResultSet.php
+END

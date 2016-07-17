@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mime
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Mime/Message.php
+END
+Decode.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Mime/Decode.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Mime/Exception.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Mime/Part.php
+END

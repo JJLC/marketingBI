@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/Ldap.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/Http.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/Interface.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/InfoCard.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/Exception.php
+END
+DbTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/DbTable.php
+END
+Digest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/Digest.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Adapter/OpenId.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter/S3.php
+END

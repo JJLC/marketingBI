@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Storage/Session.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Storage/Interface.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Storage/Exception.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth/Storage/NonPersistent.php
+END

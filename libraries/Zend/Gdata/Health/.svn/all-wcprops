@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/Health
+END
+ProfileFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Gdata/Health/ProfileFeed.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Gdata/Health/Query.php
+END
+ProfileEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Gdata/Health/ProfileEntry.php
+END
+ProfileListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Gdata/Health/ProfileListEntry.php
+END
+ProfileListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Gdata/Health/ProfileListFeed.php
+END

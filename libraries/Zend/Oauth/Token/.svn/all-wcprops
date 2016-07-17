@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Oauth/Token
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Oauth/Token/Request.php
+END
+Access.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Oauth/Token/Access.php
+END
+AuthorizedRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Oauth/Token/AuthorizedRequest.php
+END

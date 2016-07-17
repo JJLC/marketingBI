@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader
+END
+EntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/EntryInterface.php
+END
+FeedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/FeedInterface.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/Collection.php
+END
+FeedAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/FeedAbstract.php
+END
+EntryAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/EntryAbstract.php
+END
+FeedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed/Reader/FeedSet.php
+END

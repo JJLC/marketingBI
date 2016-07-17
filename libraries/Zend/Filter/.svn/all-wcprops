@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter
+END
+StringToUpper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/StringToUpper.php
+END
+StripNewlines.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/StripNewlines.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Interface.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Alnum.php
+END
+BaseName.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/BaseName.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Alpha.php
+END
+Compress.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Compress.php
+END
+Decompress.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Decompress.php
+END
+RealPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/RealPath.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Callback.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Encrypt.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Digits.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Null.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Boolean.php
+END
+NormalizedToLocalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/NormalizedToLocalized.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Input.php
+END
+HtmlEntities.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/HtmlEntities.php
+END
+Decrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Decrypt.php
+END
+Dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Dir.php
+END
+LocalizedToNormalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/LocalizedToNormalized.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Inflector.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Exception.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/Int.php
+END
+PregReplace.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/PregReplace.php
+END
+StripTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/StripTags.php
+END
+StringTrim.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/StringTrim.php
+END
+StringToLower.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Filter/StringToLower.php
+END

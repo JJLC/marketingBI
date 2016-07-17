@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet
+END
+DbRowset.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet/DbRowset.php
+END
+QueryTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet/QueryTable.php
+END
+DbTableDataSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet/DbTableDataSet.php
+END
+DbTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet/DbTable.php
+END
+QueryDataSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Test/PHPUnit/Db/DataSet/QueryDataSet.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Response/BaseUserService
+END
+GetAccountBalanceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Service/DeveloperGarden/Response/BaseUserService/GetAccountBalanceResponse.php
+END
+GetQuotaInformationResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Service/DeveloperGarden/Response/BaseUserService/GetQuotaInformationResponse.php
+END
+ChangeQuotaPoolResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Service/DeveloperGarden/Response/BaseUserService/ChangeQuotaPoolResponse.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node
+END
+ChildrenIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/ChildrenIterator.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Collection.php
+END
+Schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Schema.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Abstract.php
+END
+RootDse.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/RootDse.php
+END

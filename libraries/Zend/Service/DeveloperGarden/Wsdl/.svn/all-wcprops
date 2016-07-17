@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl
+END
+ODGBaseUserService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.xsd
+END
+IPLocation.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/IPLocation.wsdl
+END
+SmsService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/SmsService.wsdl
+END
+TokenService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/TokenService.wsdl
+END
+VoiceButlerService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.xsd
+END
+IPLocation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/IPLocation.xsd
+END
+VoiceButlerService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.wsdl
+END
+SmsValidationUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/SmsValidationUserService.wsdl
+END
+ODGBaseUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.wsdl
+END
+ccsPort.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/ccsPort.wsdl
+END
+localsearch.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/localsearch.xsd
+END
+ccsPort.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/ccsPort.xsd
+END
+localsearch.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/DeveloperGarden/Wsdl/localsearch.wsdl
+END

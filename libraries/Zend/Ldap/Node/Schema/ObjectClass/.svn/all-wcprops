@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Schema/ObjectClass
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Schema/ObjectClass/ActiveDirectory.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Schema/ObjectClass/Interface.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap/Node/Schema/ObjectClass/OpenLdap.php
+END

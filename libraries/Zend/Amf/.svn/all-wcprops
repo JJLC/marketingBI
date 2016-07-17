@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf
+END
+Constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf/Constants.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf/Exception.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf/Request.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf/Response.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Amf/Server.php
+END

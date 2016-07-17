@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Markup/Renderer
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Markup/Renderer/Html.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Markup/Renderer/Exception.php
+END
+TokenConverterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Markup/Renderer/TokenConverterInterface.php
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Markup/Renderer/RendererAbstract.php
+END

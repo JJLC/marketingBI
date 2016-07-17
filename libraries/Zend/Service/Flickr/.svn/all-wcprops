@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Flickr
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Flickr/Image.php
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Flickr/Result.php
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Service/Flickr/ResultSet.php
+END

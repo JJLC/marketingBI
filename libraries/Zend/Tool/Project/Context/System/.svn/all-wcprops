@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System
+END
+NotOverwritable.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/NotOverwritable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/Interface.php
+END
+ProjectProfileFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/ProjectProfileFile.php
+END
+ProjectDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/ProjectDirectory.php
+END
+ProjectProvidersDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/ProjectProvidersDirectory.php
+END
+TopLevelRestrictable.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context/System/TopLevelRestrictable.php
+END

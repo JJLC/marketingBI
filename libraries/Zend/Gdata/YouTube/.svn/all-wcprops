@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube
+END
+VideoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/VideoEntry.php
+END
+VideoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/VideoFeed.php
+END
+SubscriptionFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/SubscriptionFeed.php
+END
+CommentFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/CommentFeed.php
+END
+ContactFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/ContactFeed.php
+END
+PlaylistListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/PlaylistListEntry.php
+END
+ActivityEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/ActivityEntry.php
+END
+InboxFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/InboxFeed.php
+END
+PlaylistVideoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/PlaylistVideoFeed.php
+END
+PlaylistVideoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/PlaylistVideoEntry.php
+END
+InboxEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/InboxEntry.php
+END
+ActivityFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/ActivityFeed.php
+END
+VideoQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/VideoQuery.php
+END
+MediaEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/MediaEntry.php
+END
+PlaylistListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/PlaylistListFeed.php
+END
+ContactEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/ContactEntry.php
+END
+CommentEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/CommentEntry.php
+END
+UserProfileEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/UserProfileEntry.php
+END
+SubscriptionEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata/YouTube/SubscriptionEntry.php
+END

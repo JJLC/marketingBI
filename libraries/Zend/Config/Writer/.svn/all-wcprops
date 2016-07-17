@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/Xml.php
+END
+Yaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/Yaml.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/Json.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/Array.php
+END
+FileAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/FileAbstract.php
+END
+Ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config/Writer/Ini.php
+END

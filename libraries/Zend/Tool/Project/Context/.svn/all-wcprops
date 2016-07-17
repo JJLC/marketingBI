@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Tool/Project/Context
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Tool/Project/Context/Interface.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Tool/Project/Context/Repository.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Tool/Project/Context/Exception.php
+END

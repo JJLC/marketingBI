@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/XmlRpc/Server
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/XmlRpc/Server/Exception.php
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/XmlRpc/Server/System.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/XmlRpc/Server/Cache.php
+END
+Fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/XmlRpc/Server/Fault.php
+END

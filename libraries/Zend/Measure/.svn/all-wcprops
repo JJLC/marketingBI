@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure
+END
+Weight.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Weight.php
+END
+Current.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Current.php
+END
+Volume.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Volume.php
+END
+Frequency.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Frequency.php
+END
+Acceleration.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Acceleration.php
+END
+Binary.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Binary.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Abstract.php
+END
+Power.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Power.php
+END
+Pressure.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Pressure.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Length.php
+END
+Speed.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Speed.php
+END
+Density.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Density.php
+END
+Energy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Energy.php
+END
+Number.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Number.php
+END
+Torque.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Torque.php
+END
+Force.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Force.php
+END
+Area.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Area.php
+END
+Lightness.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Lightness.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Time.php
+END
+Capacitance.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Capacitance.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Exception.php
+END
+Illumination.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Illumination.php
+END
+Angle.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Angle.php
+END
+Temperature.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Measure/Temperature.php
+END

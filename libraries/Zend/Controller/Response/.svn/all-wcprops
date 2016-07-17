@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Controller/Response
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Controller/Response/Http.php
+END
+HttpTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Controller/Response/HttpTestCase.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Controller/Response/Exception.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Controller/Response/Cli.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Controller/Response/Abstract.php
+END

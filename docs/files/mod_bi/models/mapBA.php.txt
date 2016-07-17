@@ -1,0 +1,45 @@
+<?php
+
+	session_start();
+
+	require_once '../classes/bi.php';
+	
+	$objBI = new BI($_SESSION["username"], $_SESSION["password"]);
+	
+	$final = "<table id='tableBA' class='table table-striped' style='display: block; overflow-y:scroll; width: 100%; height: 500px;'>";
+	$final .= "<thead>";
+	$final .= "<tr>";
+	$final .= "<th>&nbsp;</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("Raised")."</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("Assigned")."</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("Email Mkt")."</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("SMS Mkt")."</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("MMS Mkt")."</th>";
+	$final .= "<th colspan='3' style='border-left: solid 1px black; text-align: center'>".utf8_encode("Offline")."</th>";
+	$final .= "</tr>";
+	$final .= "<tr>";
+	$final .= "<th>".utf8_encode("BA Name")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("Total")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("F")."</th>";
+	$final .= "<th style='border-left: solid 1px black;'>".utf8_encode("M")."</th>";	
+	$final .= "</tr>";
+	$final .= utf8_encode($objBI->getBAData());
+	$final .= "</table>";
+	
+	echo $final;
+?>

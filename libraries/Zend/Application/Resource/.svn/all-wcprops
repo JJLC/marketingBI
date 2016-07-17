@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Session.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Mail.php
+END
+Multidb.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Multidb.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Locale.php
+END
+Useragent.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Useragent.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Db.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Log.php
+END
+Frontcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Frontcontroller.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/View.php
+END
+Modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Modules.php
+END
+Router.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Router.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Layout.php
+END
+Cachemanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Cachemanager.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Resource.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Exception.php
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Dojo.php
+END
+ResourceAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/ResourceAbstract.php
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application/Resource/Navigation.php
+END

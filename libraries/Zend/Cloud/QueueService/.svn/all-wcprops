@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/QueueService
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Cloud/QueueService/Message.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Cloud/QueueService/Factory.php
+END
+MessageSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Cloud/QueueService/MessageSet.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Cloud/QueueService/Adapter.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Cloud/QueueService/Exception.php
+END

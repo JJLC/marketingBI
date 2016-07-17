@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Session.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Validate.php
+END
+Oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Oauth.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Version.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Locale.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Feed.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/InfoCard.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/View.php
+END
+ProgressBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/ProgressBar.php
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Auth.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Json.php
+END
+Markup.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Markup.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Layout.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Uri.php
+END
+Crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Crypt.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Date.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Pdf.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mime.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Registry.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Barcode.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Memory.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Config.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Form.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Log.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/OpenId.php
+END
+TimeSync.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/TimeSync.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Acl.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Exception.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Application.php
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Dojo.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Currency.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Gdata.php
+END
+Paginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Paginator.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Queue.php
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Serializer.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Debug.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Loader.php
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Navigation.php
+END

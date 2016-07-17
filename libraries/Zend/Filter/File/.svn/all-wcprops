@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File
+END
+Decrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File/Decrypt.php
+END
+Rename.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File/Rename.php
+END
+LowerCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File/LowerCase.php
+END
+UpperCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File/UpperCase.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/File/Encrypt.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress
+END
+CompressInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/CompressInterface.php
+END
+Lzf.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Lzf.php
+END
+Bz2.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Bz2.php
+END
+Zip.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Zip.php
+END
+Gz.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Gz.php
+END
+Rar.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Rar.php
+END
+CompressAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/CompressAbstract.php
+END
+Tar.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Filter/Compress/Tar.php
+END

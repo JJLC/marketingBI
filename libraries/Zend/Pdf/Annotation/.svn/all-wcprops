@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Pdf/Annotation
+END
+Markup.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Pdf/Annotation/Markup.php
+END
+Link.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Pdf/Annotation/Link.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Pdf/Annotation/Text.php
+END
+FileAttachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Pdf/Annotation/FileAttachment.php
+END

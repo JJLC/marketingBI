@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Ldap
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Filter.php
+END
+Dn.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Dn.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Attribute.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Collection.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Exception.php
+END
+Converter.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Converter.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn_dirmgp/!svn/ver/64/dirmgp/Zend/Ldap/Node.php
+END

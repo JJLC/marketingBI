@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Maildir.php
+END
+Folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Folder.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Mbox.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Abstract.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Pop3.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Mail/Storage/Imap.php
+END

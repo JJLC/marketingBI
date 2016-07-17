@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter
+END
+Mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Mysqli.php
+END
+Sqlsrv.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Sqlsrv.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Oracle.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Abstract.php
+END
+Db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Db/Adapter/Db2.php
+END

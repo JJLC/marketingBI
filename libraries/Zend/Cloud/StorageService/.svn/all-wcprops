@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Factory.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Adapter.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cloud/StorageService/Exception.php
+END

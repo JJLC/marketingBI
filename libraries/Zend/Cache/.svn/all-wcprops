@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache/Manager.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache/Core.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache/Exception.php
+END
+Backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn_dirmgp/!svn/ver/61/dirmgp/Zend/Cache/Backend.php
+END
